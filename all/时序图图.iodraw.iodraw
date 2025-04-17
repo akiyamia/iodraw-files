@@ -24,10 +24,10 @@
             <mxPoint x="270" y="315" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-7" value="进入首页" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="cYcqYTFqpEvlVjUfy-SV-15">
-          <mxGeometry x="-0.0023" y="13" relative="1" as="geometry">
-            <mxPoint x="790" y="262.5" as="targetPoint" />
-            <mxPoint x="720" y="262" as="sourcePoint" />
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-7" value="进入首页" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="0.0048" relative="1" as="geometry">
+            <mxPoint x="860" y="252.12" as="targetPoint" />
+            <mxPoint x="720" y="250.37" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
