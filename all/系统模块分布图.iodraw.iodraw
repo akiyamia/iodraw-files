@@ -14,7 +14,7 @@
           <mxGeometry x="500" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kDORV3rwSk4wXFPzwKPX-4" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="297.5" width="25" height="85" as="geometry" />
+          <mxGeometry x="420" y="297.5" width="25" height="85" as="geometry" />
         </mxCell>
         <mxCell id="kDORV3rwSk4wXFPzwKPX-9" value="投票列表" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="297.5" width="25" height="85" as="geometry" />
