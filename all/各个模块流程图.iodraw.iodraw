@@ -206,6 +206,9 @@
         <mxCell id="SOxBKNS2ALKDX_N58l-C-58" value="数据字符处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1573" y="987" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-59" value="存入Mysql数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1573" y="1084" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
