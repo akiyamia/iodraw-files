@@ -307,8 +307,8 @@
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.56;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="868" y="764" as="sourcePoint" />
-            <mxPoint x="1013" y="765" as="targetPoint" />
+            <mxPoint x="1030" y="743" as="sourcePoint" />
+            <mxPoint x="1324" y="744" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-99" value="创建新投票" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-98">
