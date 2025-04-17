@@ -34,6 +34,9 @@
         <mxCell id="kDORV3rwSk4wXFPzwKPX-19" value="交易哈希查询" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="735" y="430" width="25" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="kDORV3rwSk4wXFPzwKPX-20" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="780" y="297.5" width="25" height="85" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
