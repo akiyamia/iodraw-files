@@ -296,14 +296,14 @@
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-94" value="管理合约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1299" y="606" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-95" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-95" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1338.5" y="636" as="sourcePoint" />
-            <mxPoint x="1338.92" y="756" as="targetPoint" />
+            <mxPoint x="1339" y="733" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-96" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="992.82" y="768.81" width="68.12" height="20" as="geometry" />
+          <mxGeometry x="1304.94" y="780.31" width="68.12" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
