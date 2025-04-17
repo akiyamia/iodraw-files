@@ -198,7 +198,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-56" value="数据合法性检测" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1583" y="861" width="70" height="75" as="geometry" />
+          <mxGeometry x="1588" y="862" width="70" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
