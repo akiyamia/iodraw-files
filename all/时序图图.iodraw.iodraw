@@ -123,14 +123,19 @@
             <mxPoint x="1040" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.56;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="cYcqYTFqpEvlVjUfy-SV-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1160" y="460" as="sourcePoint" />
+            <mxPoint x="1200" y="383" as="sourcePoint" />
             <mxPoint x="1311" y="460.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-43" value="发起区块链交易" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-42">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cYcqYTFqpEvlVjUfy-SV-42">
+          <mxGeometry x="-0.0444" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
