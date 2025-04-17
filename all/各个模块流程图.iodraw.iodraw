@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="U8yaHfgTcxA7JkGccKdt" name="第 1 页">
-    <mxGraphModel dx="4300" dy="1767" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="482" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,6 +83,87 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="450" as="sourcePoint" />
             <mxPoint x="500" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-2" target="SOxBKNS2ALKDX_N58l-C-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-2" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1026" y="171" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-4" target="SOxBKNS2ALKDX_N58l-C-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-4" value="进入注册界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1026" y="271" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-5" value="填写注册信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1196" y="271" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-7" target="SOxBKNS2ALKDX_N58l-C-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-7" value="验证信息是否合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1216" y="361" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-8" value="生成区块链地址和公钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1006" y="381" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-9" value="前端页面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="856" y="486" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-5" target="SOxBKNS2ALKDX_N58l-C-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-11" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1166" y="369" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-12" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1176" y="481" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1256" y="511" as="sourcePoint" />
+            <mxPoint x="1256" y="436" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-14" value="返回失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1026" y="491" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SOxBKNS2ALKDX_N58l-C-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1256" y="511" as="sourcePoint" />
+            <mxPoint x="1156" y="511" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-14" target="SOxBKNS2ALKDX_N58l-C-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1046" y="461" as="sourcePoint" />
+            <mxPoint x="1096" y="411" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-17" value="注册成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="861" y="381" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SOxBKNS2ALKDX_N58l-C-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1006" y="400.5" as="sourcePoint" />
+            <mxPoint x="946" y="401" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SOxBKNS2ALKDX_N58l-C-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1006" y="400.5" as="sourcePoint" />
+            <mxPoint x="941" y="401" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="976" y="401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-17" target="SOxBKNS2ALKDX_N58l-C-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1036" y="521" as="sourcePoint" />
+            <mxPoint x="956" y="521" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
