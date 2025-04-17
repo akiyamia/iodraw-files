@@ -61,7 +61,7 @@
             <mxPoint x="640" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vPKQSPPq4Sp-10nR4OED-29" value="返回失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vPKQSPPq4Sp-10nR4OED-29" value="注册成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="300" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
