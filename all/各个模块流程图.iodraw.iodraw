@@ -197,7 +197,7 @@
             <mxPoint x="1941" y="765" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-56" value="验证信息是否合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-56" value="数据合法性检测" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1583" y="861" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
