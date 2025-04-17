@@ -100,45 +100,6 @@
         <mxCell id="SOxBKNS2ALKDX_N58l-C-5" value="选择想要参与的投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1713" y="350" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-8" value="生成区块链地址和公钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1518" y="659" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-9" value="前端页面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1398" y="733" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-14" value="返回失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1568" y="738" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-14" target="SOxBKNS2ALKDX_N58l-C-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1588" y="708" as="sourcePoint" />
-            <mxPoint x="1638" y="658" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-17" value="注册成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1403" y="628" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SOxBKNS2ALKDX_N58l-C-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1548" y="647.5" as="sourcePoint" />
-            <mxPoint x="1488" y="648" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="SOxBKNS2ALKDX_N58l-C-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1548" y="647.5" as="sourcePoint" />
-            <mxPoint x="1483" y="648" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1518" y="648" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-17" target="SOxBKNS2ALKDX_N58l-C-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1578" y="768" as="sourcePoint" />
-            <mxPoint x="1498" y="768" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-22" target="SOxBKNS2ALKDX_N58l-C-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -166,7 +127,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-25" value="进行区块链交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1713" y="486" width="120" height="30" as="geometry" />
+          <mxGeometry x="1713" y="438" width="120" height="126" as="geometry" />
         </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-28" value="生成交易哈希" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1889" y="486" width="120" height="30" as="geometry" />
