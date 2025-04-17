@@ -145,13 +145,16 @@
         <mxCell id="SOxBKNS2ALKDX_N58l-C-22" value="提交投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1713" y="420" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-23" target="SOxBKNS2ALKDX_N58l-C-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-23" value="数据库存入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1713" y="552" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-24" value="返回成功信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1713" y="617" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-25" target="SOxBKNS2ALKDX_N58l-C-24">
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-25" target="SOxBKNS2ALKDX_N58l-C-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-25" value="进行区块链交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
