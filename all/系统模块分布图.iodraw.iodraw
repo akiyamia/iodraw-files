@@ -31,8 +31,8 @@
         <mxCell id="kDORV3rwSk4wXFPzwKPX-13" value="合约地址查询" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="420" width="25" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="kDORV3rwSk4wXFPzwKPX-17" value="交易哈希查询" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="790" y="420" width="20" height="95" as="geometry" />
+        <mxCell id="kDORV3rwSk4wXFPzwKPX-19" value="合约地址查询" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="695" y="420" width="25" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
