@@ -10,8 +10,8 @@
         <mxCell id="vPKQSPPq4Sp-10nR4OED-6" value="进入注册界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="200" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vPKQSPPq4Sp-10nR4OED-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="760" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="vPKQSPPq4Sp-10nR4OED-7" value="填写注册信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
