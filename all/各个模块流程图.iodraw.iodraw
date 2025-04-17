@@ -216,10 +216,7 @@
           <mxGeometry x="1563" y="1042" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-60" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1573" y="1108" width="101" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-59" target="SOxBKNS2ALKDX_N58l-C-60">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="1589" y="1108" width="85" height="49" as="geometry" />
         </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
           <mxGeometry x="1477" y="901" width="111" height="228" as="geometry" />
