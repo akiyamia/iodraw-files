@@ -11,7 +11,7 @@
           <mxGeometry x="830" y="230" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kDORV3rwSk4wXFPzwKPX-3" value="前台模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="230" width="90" height="30" as="geometry" />
+          <mxGeometry x="530" y="220" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kDORV3rwSk4wXFPzwKPX-4" value="注册登录" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="297.5" width="25" height="85" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="600" y="297.5" width="25" height="85" as="geometry" />
         </mxCell>
         <mxCell id="kDORV3rwSk4wXFPzwKPX-12" value="区块链查询" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="297.5" width="25" height="85" as="geometry" />
+          <mxGeometry x="670" y="297.5" width="25" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
