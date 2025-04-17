@@ -45,7 +45,7 @@
             <mxPoint x="710" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-13" value="投票系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-14" value="管理合约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
