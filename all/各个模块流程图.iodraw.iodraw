@@ -154,8 +154,14 @@
         <mxCell id="SOxBKNS2ALKDX_N58l-C-28" value="生成交易哈希" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1888" y="494" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-29" value="返回成功信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-29" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1713" y="678" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1721" y="572" as="sourcePoint" />
+            <mxPoint x="1771" y="522" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
