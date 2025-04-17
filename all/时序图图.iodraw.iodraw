@@ -97,7 +97,7 @@
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="250.82999999999998" as="sourcePoint" />
-            <mxPoint x="820" y="250.82999999999998" as="targetPoint" />
+            <mxPoint x="790" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-29" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-28">
