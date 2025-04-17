@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="U8yaHfgTcxA7JkGccKdt" name="第 1 页">
-    <mxGraphModel dx="430" dy="177" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1075" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,10 +23,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPKQSPPq4Sp-10nR4OED-8" value="验证信息是否合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="760" y="285" width="80" height="80" as="geometry" />
+          <mxGeometry x="760" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vPKQSPPq4Sp-10nR4OED-9" value="生成区块链地址和公钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="310" width="150" height="30" as="geometry" />
+          <mxGeometry x="550" y="310" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vPKQSPPq4Sp-10nR4OED-10" value="前端页面" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="410" y="410" width="90" height="50" as="geometry" />
