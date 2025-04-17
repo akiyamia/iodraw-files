@@ -83,7 +83,7 @@
             <mxPoint x="1040.25" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-23" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-23" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="cYcqYTFqpEvlVjUfy-SV-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1209.71" y="160" as="sourcePoint" />
             <mxPoint x="1210.21" y="248" as="targetPoint" />
@@ -95,7 +95,7 @@
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-25" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="380" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-26" value="信息存储" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;entryX=0.685;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-26" value="发起区块链交易" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;entryX=0.685;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1200" y="305" as="targetPoint" />
             <mxPoint x="1050" y="302.5" as="sourcePoint" />
