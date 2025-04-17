@@ -206,6 +206,9 @@
         <mxCell id="SOxBKNS2ALKDX_N58l-C-56" value="数据合法性检测" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1588" y="862" width="70" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-58" target="SOxBKNS2ALKDX_N58l-C-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-58" value="数据字符处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1563" y="987" width="120" height="30" as="geometry" />
         </mxCell>
@@ -214,6 +217,9 @@
         </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-60" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1573" y="1129" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-59" target="SOxBKNS2ALKDX_N58l-C-60">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
