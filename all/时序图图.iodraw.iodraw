@@ -147,8 +147,10 @@
             <mxPoint x="880" y="399.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-48" value="返回投票信息" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-47">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-48" value="渲染投票结果" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
