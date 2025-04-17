@@ -109,7 +109,7 @@
           <mxGeometry x="1217.66" y="289.84" width="53.75" height="42.81" as="geometry" />
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-38" value="区块数量增加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1220.31" y="294.19" width="90" height="26" as="geometry" />
+          <mxGeometry x="1234" y="298.24" width="90" height="26" as="geometry" />
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-39" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1005.95" y="390" width="68.12" height="20" as="geometry" />
@@ -309,6 +309,9 @@
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-92" value="创建新投票" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-91">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-93" value="区块数量增加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1244" y="308.24" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
