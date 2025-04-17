@@ -66,7 +66,7 @@
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-18" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1007.5" y="272.5" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-20" value="进入首页" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;entryX=0.685;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="cYcqYTFqpEvlVjUfy-SV-18">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-20" value="进行投票" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;entryX=0.685;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="cYcqYTFqpEvlVjUfy-SV-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="294.5" as="targetPoint" />
             <mxPoint x="880" y="292.5" as="sourcePoint" />
@@ -74,8 +74,8 @@
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-21" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="879.5" y="170" as="sourcePoint" />
-            <mxPoint x="880" y="258" as="targetPoint" />
+            <mxPoint x="1039.75" y="160" as="sourcePoint" />
+            <mxPoint x="1040.25" y="248" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
