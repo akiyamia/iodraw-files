@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="kDORV3rwSk4wXFPzwKPX-1" value="基于区块链的投票系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="140" width="170" height="30" as="geometry" />
+          <mxGeometry x="610" y="140" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="kDORV3rwSk4wXFPzwKPX-2" value="管理控制台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="230" width="90" height="30" as="geometry" />
