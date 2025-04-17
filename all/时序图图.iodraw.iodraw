@@ -105,8 +105,8 @@
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-34" value="发起区块链交易" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-36" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="281.25" width="120" height="60" as="geometry" />
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-36" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="305" width="70" height="28.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
