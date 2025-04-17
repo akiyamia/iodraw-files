@@ -270,17 +270,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-81" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="836.87" y="896" as="sourcePoint" />
-            <mxPoint x="696.87" y="896" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-82" value="投票成功" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-81">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cYcqYTFqpEvlVjUfy-SV-84">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="858.000020345052" y="740" as="targetPoint" />
@@ -303,6 +292,9 @@
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-93" value="区块数量增加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200.94" y="800.31" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-94" value="管理合约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1156.87" y="616" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
