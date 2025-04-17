@@ -93,13 +93,13 @@
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-29" value="进入首页" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.09;entryY=0.783;entryDx=0;entryDy=0;exitX=0.56;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.56;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="879" y="270.83" as="sourcePoint" />
-            <mxPoint x="1033.3400000000001" y="270.67499999999995" as="targetPoint" />
+            <mxPoint x="1030" y="271" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-31" value="进入首页" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-30">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-31" value="进行投票" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
