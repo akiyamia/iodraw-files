@@ -172,12 +172,6 @@
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-53" value="管理员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="659.87" y="643" width="54" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-54" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cYcqYTFqpEvlVjUfy-SV-51" target="cYcqYTFqpEvlVjUfy-SV-64">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="686.87" y="846" as="sourcePoint" />
-            <mxPoint x="686.87" y="836" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-55" value="投票系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="806.87" y="606" width="80" height="30" as="geometry" />
         </mxCell>
@@ -213,9 +207,6 @@
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-63" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="1123.75" y="808.65" width="126.25" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-64" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="654.37" y="876" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-65" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.176;entryY=0.864;entryDx=0;entryDy=0;exitX=0.56;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="cYcqYTFqpEvlVjUfy-SV-51" target="cYcqYTFqpEvlVjUfy-SV-57">
           <mxGeometry relative="1" as="geometry">
@@ -311,7 +302,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-93" value="区块数量增加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1206" y="800.31" width="90" height="26" as="geometry" />
+          <mxGeometry x="1200.94" y="800.31" width="90" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
