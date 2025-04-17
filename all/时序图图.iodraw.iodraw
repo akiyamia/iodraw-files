@@ -65,14 +65,14 @@
           <mxGeometry x="1000" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-18" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1007.5" y="272.5" width="65" height="20" as="geometry" />
+          <mxGeometry x="1007.5" y="281.25" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-20" value="进行投票" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;entryX=0.685;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="0.0022" relative="1" as="geometry">
-            <mxPoint x="1030" y="274.5250000000001" as="targetPoint" />
-            <mxPoint x="880" y="272.5" as="sourcePoint" />
+            <mxPoint x="1030" y="272.2650000000001" as="targetPoint" />
+            <mxPoint x="880" y="270.24" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="950" y="273" />
+              <mxPoint x="950" y="270.74" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -95,7 +95,7 @@
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-25" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="677.5" y="380" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-26" value="进行投票" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;entryX=0.685;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-26" value="信息存储" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;entryX=0.685;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1200" y="305" as="targetPoint" />
             <mxPoint x="1050" y="302.5" as="sourcePoint" />
