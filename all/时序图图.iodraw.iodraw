@@ -24,13 +24,6 @@
             <mxPoint x="270" y="315" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-7" value="进入首页" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry x="0.0048" relative="1" as="geometry">
-            <mxPoint x="860" y="252.12" as="targetPoint" />
-            <mxPoint x="720" y="250.37" as="sourcePoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-9" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="60" as="sourcePoint" />
@@ -103,8 +96,8 @@
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="930" y="280" as="sourcePoint" />
-            <mxPoint x="1030" y="280" as="targetPoint" />
+            <mxPoint x="730" y="290" as="sourcePoint" />
+            <mxPoint x="830" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-29" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-28">
