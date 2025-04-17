@@ -221,8 +221,13 @@
         <mxCell id="SOxBKNS2ALKDX_N58l-C-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-59" target="SOxBKNS2ALKDX_N58l-C-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1627.5999145507812" y="1092" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="1513" y="953" width="108" height="94" as="geometry" />
+          <mxGeometry x="1536" y="953" width="85" height="139" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
