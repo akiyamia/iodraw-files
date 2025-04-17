@@ -43,8 +43,8 @@
         <mxCell id="kDORV3rwSk4wXFPzwKPX-22" value="投票管理" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="297.5" width="25" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="kDORV3rwSk4wXFPzwKPX-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="360" width="50" height="100" as="geometry" />
+        <mxCell id="kDORV3rwSk4wXFPzwKPX-25" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="695" y="180" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
