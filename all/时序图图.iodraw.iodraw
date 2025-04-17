@@ -49,7 +49,7 @@
           <mxGeometry x="830" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-14" value="管理合约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="130" width="80" height="30" as="geometry" />
+          <mxGeometry x="1200" y="130" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-15" value="" style="rounded=1;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="837.5" y="270" width="65" height="20" as="geometry" />
@@ -59,6 +59,9 @@
             <mxPoint x="869.5" y="160" as="sourcePoint" />
             <mxPoint x="870" y="240" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-17" value="投票系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="130" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
