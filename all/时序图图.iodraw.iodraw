@@ -293,7 +293,7 @@
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-93" value="区块数量增加" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1200.94" y="800.31" width="90" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-94" value="数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-94" value="管理合约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1299" y="606" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
