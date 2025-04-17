@@ -39,10 +39,10 @@
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-11" value="用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="685" y="165" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-12" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;" edge="1" parent="1">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-12" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=1 2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="cYcqYTFqpEvlVjUfy-SV-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="70" as="sourcePoint" />
-            <mxPoint x="550" y="70" as="targetPoint" />
+            <mxPoint x="710" y="370" as="sourcePoint" />
+            <mxPoint x="870" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
