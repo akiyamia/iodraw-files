@@ -98,11 +98,11 @@
         </mxCell>
         <mxCell id="cYcqYTFqpEvlVjUfy-SV-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.56;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="889" y="280.83" as="sourcePoint" />
-            <mxPoint x="1040" y="281" as="targetPoint" />
+            <mxPoint x="1050" y="290" as="sourcePoint" />
+            <mxPoint x="1201" y="290.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-34" value="进行投票" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-33">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-34" value="发起区块链交易" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
