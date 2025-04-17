@@ -23,7 +23,7 @@
           <mxGeometry x="530" y="297.5" width="25" height="85" as="geometry" />
         </mxCell>
         <mxCell id="kDORV3rwSk4wXFPzwKPX-11" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="590" y="297.5" width="25" height="85" as="geometry" />
+          <mxGeometry x="600" y="297.5" width="25" height="85" as="geometry" />
         </mxCell>
         <mxCell id="kDORV3rwSk4wXFPzwKPX-12" value="区块链查询" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="660" y="297.5" width="25" height="85" as="geometry" />
