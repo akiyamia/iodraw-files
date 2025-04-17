@@ -147,58 +147,11 @@
         <mxCell id="SOxBKNS2ALKDX_N58l-C-40" value="用户评论" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1393" y="765" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="SOxBKNS2ALKDX_N58l-C-42" target="SOxBKNS2ALKDX_N58l-C-43" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-42" target="SOxBKNS2ALKDX_N58l-C-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-42" value="评论数据传入后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1573" y="775" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-43" value="选择想要参与的投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1743" y="775" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SOxBKNS2ALKDX_N58l-C-45" target="SOxBKNS2ALKDX_N58l-C-52" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-45" value="提交投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1743" y="845" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SOxBKNS2ALKDX_N58l-C-47" target="SOxBKNS2ALKDX_N58l-C-49" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-47" value="数据库存入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1743" y="977" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SOxBKNS2ALKDX_N58l-C-49" target="SOxBKNS2ALKDX_N58l-C-54" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-49" value="返回成功信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1743" y="1042" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="SOxBKNS2ALKDX_N58l-C-52" target="SOxBKNS2ALKDX_N58l-C-47" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="SOxBKNS2ALKDX_N58l-C-52" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1918.0908647017045" y="926.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-52" value="进行区块链交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1743" y="911" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-53" value="生成交易哈希" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1919" y="911" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-54" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1743" y="1103" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-55" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="SOxBKNS2ALKDX_N58l-C-43" target="SOxBKNS2ALKDX_N58l-C-45" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1891" y="815" as="sourcePoint" />
-            <mxPoint x="1941" y="765" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="SOxBKNS2ALKDX_N58l-C-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SOxBKNS2ALKDX_N58l-C-56" target="SOxBKNS2ALKDX_N58l-C-58">
           <mxGeometry relative="1" as="geometry" />
@@ -230,7 +183,7 @@
         <mxCell id="SOxBKNS2ALKDX_N58l-C-69" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1623" y="1072" as="sourcePoint" />
-            <mxPoint x="1673" y="1022" as="targetPoint" />
+            <mxPoint x="1623" y="1104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
