@@ -224,6 +224,9 @@
         <mxCell id="SOxBKNS2ALKDX_N58l-C-67" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1593" y="937" width="30" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-68" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1502" y="1015" width="30" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
