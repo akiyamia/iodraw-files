@@ -139,7 +139,7 @@
             <mxPoint x="1498" y="768" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SOxBKNS2ALKDX_N58l-C-22" value="选择想要参与的投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SOxBKNS2ALKDX_N58l-C-22" value="提交投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1713" y="437" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
