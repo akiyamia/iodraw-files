@@ -311,7 +311,7 @@
             <mxPoint x="1324" y="744" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cYcqYTFqpEvlVjUfy-SV-99" value="创建新投票" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-98">
+        <mxCell id="cYcqYTFqpEvlVjUfy-SV-99" value="存入数据库" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cYcqYTFqpEvlVjUfy-SV-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
