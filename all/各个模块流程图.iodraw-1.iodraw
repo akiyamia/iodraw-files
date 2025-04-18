@@ -470,9 +470,6 @@
             <mxPoint x="2304" y="2037" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FvvVb3GPj0KH742973eS-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.139;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-97" target="FvvVb3GPj0KH742973eS-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
