@@ -568,13 +568,10 @@
           <mxGeometry x="2113.5" y="567" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-139" value="进入管理控制台中的评论管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="671.5" width="127" height="43" as="geometry" />
-        </mxCell>
-        <mxCell id="FvvVb3GPj0KH742973eS-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-141" target="FvvVb3GPj0KH742973eS-151" parent="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="2267" y="570.5" width="127" height="43" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-141" value="搜索用户名或者评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2094" y="789" width="140" height="41" as="geometry" />
+          <mxGeometry x="2481" y="571.5" width="140" height="41" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-145" value="更新数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2100" y="968" width="150" height="40" as="geometry" />
