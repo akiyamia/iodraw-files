@@ -333,6 +333,67 @@
         <mxCell id="FvvVb3GPj0KH742973eS-48" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1410.5" y="1579.5" width="85" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-54" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2037.3333129882812" y="1507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-54" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1847" y="1482" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="FvvVb3GPj0KH742973eS-56" target="FvvVb3GPj0KH742973eS-58" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-56" value="进入投票信息页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2039" y="1494" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-58" target="FvvVb3GPj0KH742973eS-69" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-58" value="获取合约地址" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2219" y="1488.5" width="140" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="FvvVb3GPj0KH742973eS-60" target="FvvVb3GPj0KH742973eS-62" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-60" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2473" y="1595" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-62" target="FvvVb3GPj0KH742973eS-70" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-62" value="显示合约信息和投票信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2248" y="1615" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-63" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2408" y="1603" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-64" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2516" y="1683" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-66" target="FvvVb3GPj0KH742973eS-70" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-66" value="返回失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2448" y="1728" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2511" y="1676" as="sourcePoint" />
+            <mxPoint x="2511" y="1724" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="FvvVb3GPj0KH742973eS-69" target="FvvVb3GPj0KH742973eS-60" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2513" y="1554.800048828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-69" value="进行合约地址查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2443" y="1488.5" width="140" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-70" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2280.5" y="1723.5" width="85" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
