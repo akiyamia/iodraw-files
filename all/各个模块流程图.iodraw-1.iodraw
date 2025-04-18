@@ -204,7 +204,7 @@
         <mxCell id="FvvVb3GPj0KH742973eS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="FvvVb3GPj0KH742973eS-7" target="FvvVb3GPj0KH742973eS-8" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FvvVb3GPj0KH742973eS-7" value="验证信息是否合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="FvvVb3GPj0KH742973eS-7" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="738" y="867" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-8" value="生成区块链地址和公钥" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
