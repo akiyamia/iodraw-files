@@ -532,7 +532,7 @@
         <mxCell id="FvvVb3GPj0KH742973eS-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-127" target="FvvVb3GPj0KH742973eS-135" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FvvVb3GPj0KH742973eS-127" value="显示已投票信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvvVb3GPj0KH742973eS-127" value="进行区块链交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2316" y="1210" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-128" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
