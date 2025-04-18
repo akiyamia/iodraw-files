@@ -388,7 +388,7 @@
             <mxPoint x="2513" y="1554.800048828125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FvvVb3GPj0KH742973eS-69" value="进行合约地址查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FvvVb3GPj0KH742973eS-69" value="进行交易哈希查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2443" y="1488.5" width="140" height="41" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-70" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
