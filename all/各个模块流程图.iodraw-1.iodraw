@@ -475,6 +475,9 @@
             <mxPoint x="2304" y="2037" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-101" value="重新输入信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2248" y="2075" width="90" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
