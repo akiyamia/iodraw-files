@@ -408,6 +408,11 @@
         <mxCell id="FvvVb3GPj0KH742973eS-74" value="管理员进入控制台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1947" y="1945" width="127" height="43" as="geometry" />
         </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2203.5" y="2052.7142043340773" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-76" value="选择添加用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2133.5" y="1946" width="140" height="41" as="geometry" />
         </mxCell>
@@ -415,7 +420,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-78" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2172" y="2055" width="80" height="80" as="geometry" />
+          <mxGeometry x="2163.5" y="2055" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-80" target="FvvVb3GPj0KH742973eS-88" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -437,8 +442,8 @@
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2210" y="2136" as="sourcePoint" />
-            <mxPoint x="2210" y="2184" as="targetPoint" />
+            <mxPoint x="2203.02" y="2138" as="sourcePoint" />
+            <mxPoint x="2203.02" y="2186" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-88" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
