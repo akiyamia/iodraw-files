@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="U8yaHfgTcxA7JkGccKdt" name="第 1 页">
-    <mxGraphModel dx="2345" dy="964" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="956" dy="393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -560,6 +560,64 @@
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-135" value="创建成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2348.5" y="1318.5" width="85" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-137" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2274.3333129882812" y="591" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-137" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2084" y="566" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="FvvVb3GPj0KH742973eS-139" target="FvvVb3GPj0KH742973eS-141" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-139" value="进入管理控制台中的评论管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2276" y="572" width="127" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-141" target="FvvVb3GPj0KH742973eS-151" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-141" value="点击创建新投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2462.5" y="573" width="140" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="FvvVb3GPj0KH742973eS-143" target="FvvVb3GPj0KH742973eS-145" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-143" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="679" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-145" target="FvvVb3GPj0KH742973eS-152" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-145" value="进行区块链交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2485" y="699" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-146" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2645" y="687" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-147" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2753" y="767" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-148" value="返回失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2685" y="812" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-149" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2748" y="760" as="sourcePoint" />
+            <mxPoint x="2748" y="808" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="FvvVb3GPj0KH742973eS-151" target="FvvVb3GPj0KH742973eS-143" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2750" y="638.800048828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-151" value="填入基本信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="572.5" width="140" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-152" value="创建成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2517.5" y="807.5" width="85" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
