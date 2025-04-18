@@ -422,9 +422,6 @@
         <mxCell id="FvvVb3GPj0KH742973eS-78" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2163.5" y="2055" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="FvvVb3GPj0KH742973eS-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-80" target="FvvVb3GPj0KH742973eS-88" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-80" target="FvvVb3GPj0KH742973eS-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -445,9 +442,6 @@
             <mxPoint x="2203.02" y="2134" as="sourcePoint" />
             <mxPoint x="2203.02" y="2182" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="FvvVb3GPj0KH742973eS-88" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2002.5" y="2183.5" width="85" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-91" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1698" y="2055" width="80" height="80" as="geometry" />
