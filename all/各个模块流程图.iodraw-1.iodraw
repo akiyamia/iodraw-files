@@ -580,7 +580,10 @@
           <mxGeometry x="2456" y="571.5" width="140" height="41" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-145" value="更新数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="968" width="150" height="40" as="geometry" />
+          <mxGeometry x="2651" y="660" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-151" target="FvvVb3GPj0KH742973eS-145">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-151" value="点击删除" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2656" y="570.5" width="140" height="41" as="geometry" />
