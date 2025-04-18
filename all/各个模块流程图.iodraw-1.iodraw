@@ -293,7 +293,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-30" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1608" y="1451" width="80" height="80" as="geometry" />
+          <mxGeometry x="1603" y="1451" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-31" value="更新用户个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1378" y="1471" width="150" height="40" as="geometry" />
@@ -352,7 +352,7 @@
             <mxPoint x="1328" y="1611" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FvvVb3GPj0KH742973eS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-44">
+        <mxCell id="FvvVb3GPj0KH742973eS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-44" target="FvvVb3GPj0KH742973eS-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1643" y="1410.800048828125" as="targetPoint" />
           </mxGeometry>
