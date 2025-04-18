@@ -295,6 +295,9 @@
         <mxCell id="FvvVb3GPj0KH742973eS-30" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1603" y="1451" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-31" target="FvvVb3GPj0KH742973eS-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-31" value="显示合约信息和投票信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1378" y="1471" width="150" height="40" as="geometry" />
         </mxCell>
@@ -320,6 +323,12 @@
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-44" value="进行合约地址查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1573" y="1344.5" width="140" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-47" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="2015" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-48" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1413" y="1584" width="85" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
