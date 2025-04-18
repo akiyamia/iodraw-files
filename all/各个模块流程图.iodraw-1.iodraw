@@ -470,6 +470,12 @@
         <mxCell id="FvvVb3GPj0KH742973eS-101" value="重新输入信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2248" y="2075" width="90" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2272" y="2025" as="sourcePoint" />
+            <mxPoint x="2297" y="2002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
