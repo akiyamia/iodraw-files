@@ -425,6 +425,9 @@
         <mxCell id="FvvVb3GPj0KH742973eS-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-80" target="FvvVb3GPj0KH742973eS-88" parent="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-95" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-80" target="FvvVb3GPj0KH742973eS-94">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-80" value="添加成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1990" y="2077.5" width="110" height="35" as="geometry" />
         </mxCell>
@@ -451,6 +454,9 @@
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-91" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1698" y="2055" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-94" target="FvvVb3GPj0KH742973eS-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-94" value="修改信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1820" y="2077.5" width="110" height="35" as="geometry" />
