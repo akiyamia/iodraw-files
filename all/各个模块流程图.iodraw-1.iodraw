@@ -293,63 +293,68 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-30" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1613" y="1449" width="80" height="80" as="geometry" />
+          <mxGeometry x="1608" y="1451" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-31" value="更新用户个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1383" y="1469" width="150" height="40" as="geometry" />
+          <mxGeometry x="1378" y="1471" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-32" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1233" y="1574" width="90" height="50" as="geometry" />
+          <mxGeometry x="1228" y="1576" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-34" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1543" y="1457" width="40" height="30" as="geometry" />
+          <mxGeometry x="1538" y="1459" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-35" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1553" y="1569" width="40" height="30" as="geometry" />
+          <mxGeometry x="1548" y="1571" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1652.58" y="1604" as="sourcePoint" />
-            <mxPoint x="1652.58" y="1529" as="targetPoint" />
+            <mxPoint x="1647.58" y="1606" as="sourcePoint" />
+            <mxPoint x="1647.58" y="1531" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-37" value="返回失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1393" y="1579" width="120" height="40" as="geometry" />
+          <mxGeometry x="1388" y="1581" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-38" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1652" y="1604" as="sourcePoint" />
-            <mxPoint x="1517" y="1602" as="targetPoint" />
+            <mxPoint x="1647" y="1606" as="sourcePoint" />
+            <mxPoint x="1512" y="1604" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="FvvVb3GPj0KH742973eS-37" target="FvvVb3GPj0KH742973eS-32" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1423" y="1549" as="sourcePoint" />
-            <mxPoint x="1473" y="1499" as="targetPoint" />
+            <mxPoint x="1418" y="1551" as="sourcePoint" />
+            <mxPoint x="1468" y="1501" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-40" value="返回成功信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1238" y="1469" width="80" height="40" as="geometry" />
+          <mxGeometry x="1233" y="1471" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="FvvVb3GPj0KH742973eS-40" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1383" y="1488.5" as="sourcePoint" />
-            <mxPoint x="1323" y="1489" as="targetPoint" />
+            <mxPoint x="1378" y="1490.5" as="sourcePoint" />
+            <mxPoint x="1318" y="1491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" target="FvvVb3GPj0KH742973eS-40" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1383" y="1488.5" as="sourcePoint" />
-            <mxPoint x="1318" y="1489" as="targetPoint" />
+            <mxPoint x="1378" y="1490.5" as="sourcePoint" />
+            <mxPoint x="1313" y="1491" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1353" y="1489" />
+              <mxPoint x="1348" y="1491" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" source="FvvVb3GPj0KH742973eS-40" target="FvvVb3GPj0KH742973eS-32" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1413" y="1609" as="sourcePoint" />
-            <mxPoint x="1333" y="1609" as="targetPoint" />
+            <mxPoint x="1408" y="1611" as="sourcePoint" />
+            <mxPoint x="1328" y="1611" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1643" y="1410.800048828125" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-44" value="进行合约地址查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
