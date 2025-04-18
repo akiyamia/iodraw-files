@@ -443,6 +443,9 @@
             <mxPoint x="2203.02" y="2182" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FvvVb3GPj0KH742973eS-91" target="FvvVb3GPj0KH742973eS-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-91" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1835" y="2148" width="80" height="80" as="geometry" />
         </mxCell>
@@ -472,6 +475,9 @@
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-104" value="返回失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1815" y="2264" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-106" value="添加成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1646" y="2177" width="110" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
