@@ -437,9 +437,6 @@
         <mxCell id="FvvVb3GPj0KH742973eS-82" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2163.5" y="2140" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="FvvVb3GPj0KH742973eS-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-84" target="FvvVb3GPj0KH742973eS-88" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-84" value="返回失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2147" y="2188" width="120" height="40" as="geometry" />
         </mxCell>
