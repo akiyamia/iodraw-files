@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="U8yaHfgTcxA7JkGccKdt" name="第 1 页">
-    <mxGraphModel dx="1985" dy="815" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="1060" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -393,6 +393,67 @@
         </mxCell>
         <mxCell id="FvvVb3GPj0KH742973eS-70" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2280.5" y="1723.5" width="85" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-72" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1945.3333129882812" y="1964" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-72" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1755" y="1939" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="FvvVb3GPj0KH742973eS-74" target="FvvVb3GPj0KH742973eS-76" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-74" value="进入已投票的投票活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1947" y="1945" width="127" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-76" target="FvvVb3GPj0KH742973eS-87" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-76" value="获取交易哈希" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2133.5" y="1946" width="140" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="FvvVb3GPj0KH742973eS-78" target="FvvVb3GPj0KH742973eS-80" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-78" value="验证信息是否非空且合法" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2381" y="2052" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-80" target="FvvVb3GPj0KH742973eS-88" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-80" value="显示已投票信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2156" y="2072" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-81" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2316" y="2060" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-82" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2424" y="2140" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="FvvVb3GPj0KH742973eS-84" target="FvvVb3GPj0KH742973eS-88" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-84" value="返回失败信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2356" y="2185" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2419" y="2133" as="sourcePoint" />
+            <mxPoint x="2419" y="2181" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" source="FvvVb3GPj0KH742973eS-87" target="FvvVb3GPj0KH742973eS-78" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2421" y="2011.800048828125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-87" value="进行交易哈希查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2351" y="1945.5" width="140" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="FvvVb3GPj0KH742973eS-88" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2188.5" y="2180.5" width="85" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
