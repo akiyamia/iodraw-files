@@ -43,10 +43,10 @@
         <mxCell id="R1-swrk_Equqv0A9fmt8-17" value="CNS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="410" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R1-swrk_Equqv0A9fmt8-18" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R1-swrk_Equqv0A9fmt8-18" value="AMOP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="410" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R1-swrk_Equqv0A9fmt8-21" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R1-swrk_Equqv0A9fmt8-21" value="多账本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1140" y="410" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
