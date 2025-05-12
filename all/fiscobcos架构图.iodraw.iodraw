@@ -52,6 +52,9 @@
         <mxCell id="R1-swrk_Equqv0A9fmt8-22" value="管理层：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="410" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-23" value="准入管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
