@@ -34,7 +34,7 @@
         <mxCell id="R1-swrk_Equqv0A9fmt8-14" value="共识管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="410" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R1-swrk_Equqv0A9fmt8-15" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R1-swrk_Equqv0A9fmt8-15" value="参数管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="410" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R1-swrk_Equqv0A9fmt8-16" value="Channel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
