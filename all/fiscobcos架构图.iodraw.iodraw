@@ -23,7 +23,10 @@
           <mxGeometry x="880" y="280" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R1-swrk_Equqv0A9fmt8-10" value="交互式控制台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="320" width="90" height="30" as="geometry" />
+          <mxGeometry x="1000" y="290" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-11" value="JAVA SDK" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="320" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
