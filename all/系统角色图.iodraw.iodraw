@@ -73,7 +73,13 @@
           <mxGeometry x="1274" y="224" width="180" height="34" as="geometry" />
         </mxCell>
         <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;词法、语法分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1511" y="377" width="144" height="34" as="geometry" />
+          <mxGeometry x="1470" y="371" width="144" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-12" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;词法、语法分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1466" y="468" width="144" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分析器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="457" width="100" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
