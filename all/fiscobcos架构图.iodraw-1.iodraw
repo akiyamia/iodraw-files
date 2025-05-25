@@ -19,8 +19,8 @@
         <mxCell id="R1-swrk_Equqv0A9fmt8-8" value="JAVA SDK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="320" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R1-swrk_Equqv0A9fmt8-9" value="SDK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="900" y="280" width="50" height="30" as="geometry" />
+        <mxCell id="R1-swrk_Equqv0A9fmt8-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SDK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="895" y="275" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R1-swrk_Equqv0A9fmt8-10" value="交互式控制台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1050" y="290" width="130" height="60" as="geometry" />
