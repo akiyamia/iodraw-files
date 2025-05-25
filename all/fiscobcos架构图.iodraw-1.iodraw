@@ -68,10 +68,10 @@
           <mxGeometry x="470" y="575" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="R1-swrk_Equqv0A9fmt8-29" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MySQL驱动&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="590" y="575" width="110" height="30" as="geometry" />
+          <mxGeometry x="590" y="575" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="R1-swrk_Equqv0A9fmt8-30" value="Oracle驱动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="585" width="90" height="30" as="geometry" />
+        <mxCell id="R1-swrk_Equqv0A9fmt8-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Oracle驱动&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="720" y="585" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="R1-swrk_Equqv0A9fmt8-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分布式存储（AMDB）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="540" y="545" width="200" height="40" as="geometry" />
