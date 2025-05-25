@@ -52,6 +52,11 @@
         <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H-hmGQ-di_6fhZ9GmZ8G-2" target="H-hmGQ-di_6fhZ9GmZ8G-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H-hmGQ-di_6fhZ9GmZ8G-5">
+          <mxGeometry x="0.0771" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H-hmGQ-di_6fhZ9GmZ8G-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1404.4000244140625" y="359.60003662109375" as="targetPoint" />
@@ -112,6 +117,9 @@
         </mxCell>
         <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-29" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
           <mxGeometry x="1435" y="660" width="68.92" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1173" y="290" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
