@@ -99,13 +99,16 @@
           <mxGeometry x="1100" y="417" width="162" height="34" as="geometry" />
         </mxCell>
         <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;存储引擎&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1107" y="665" width="447" height="53" as="geometry" />
+          <mxGeometry x="1107" y="635" width="437" height="83" as="geometry" />
         </mxCell>
         <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;存储数据，提供读写接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1217" y="733" width="216" height="34" as="geometry" />
         </mxCell>
         <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-27" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
           <mxGeometry x="1159" y="673" width="50" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-28" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+          <mxGeometry x="1236" y="675" width="50" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
