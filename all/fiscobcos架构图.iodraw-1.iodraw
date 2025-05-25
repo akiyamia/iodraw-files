@@ -1,0 +1,127 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="3UMOZGVu2omBCYz3ctA1">
+    <mxGraphModel dx="1290" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R1-swrk_Equqv0A9fmt8-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Channel&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-4" value="WebSocket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-5" value="JSOnRPC" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-7" value="RPC" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="610" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-8" value="JAVA SDK" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="880" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-9" value="SDK" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="900" y="280" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-10" value="交互式控制台" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="290" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-12" value="接口层：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-13" value="准入管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-14" value="共识管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-15" value="参数管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-16" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="810" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-17" value="CNS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="920" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-18" value="AMOP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-21" value="多账本" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-22" value="管理层：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-23" value="Precompiled" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-24" value="EVM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-25" value="区块链管理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="480" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-27" value="区块/交易执行引擎" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="525" y="470" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-28" value="LevelDB驱动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-29" value="MySQL驱动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-30" value="Oracle驱动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-31" value="分布式存储（AMDB）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="570" y="550" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-32" value="链核心层：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="385" y="540" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-33" value="PBFT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-34" value="RAFT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1020" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-35" value="共识" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="990" y="480" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-39" value="区块同步" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1140" y="490" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-41" value="区块同步" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1240" y="490" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-42" value="互联核心层：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="820" y="550" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-43" value="P2P" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="910" y="570" width="410" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-44" value="基础层：" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="385" y="680" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-45" value="密码学算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-46" value="隐私算法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-47" value="数据库驱动" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="770" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-48" value="基础库Boost" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="900" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-49" value="硬盘IO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R1-swrk_Equqv0A9fmt8-50" value="Socket" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
