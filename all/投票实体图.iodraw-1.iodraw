@@ -10,7 +10,7 @@
         <mxCell id="k5qYO_6AZqsL0t7zK3fv-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;u style=&quot;&quot;&gt;id&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1070" y="1070" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k5qYO_6AZqsL0t7zK3fv-3" value="&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;&lt;u style=&quot;&quot;&gt;标题&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="k5qYO_6AZqsL0t7zK3fv-3" value="&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;标题&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1130" y="1010" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k5qYO_6AZqsL0t7zK3fv-4" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;描述&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
