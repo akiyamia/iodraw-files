@@ -10,16 +10,16 @@
         <mxCell id="D1E-Qob2-XWS4WJGhTcT-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;u style=&quot;&quot;&gt;id&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1290" y="1170" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D1E-Qob2-XWS4WJGhTcT-3" value="&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;&lt;u style=&quot;&quot;&gt;投票id&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="D1E-Qob2-XWS4WJGhTcT-3" value="&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;投票id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1370" y="1120" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D1E-Qob2-XWS4WJGhTcT-4" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;用户id&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D1E-Qob2-XWS4WJGhTcT-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;用户id&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1480" y="1080" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D1E-Qob2-XWS4WJGhTcT-5" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;投票时间&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D1E-Qob2-XWS4WJGhTcT-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;投票时间&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="1080" width="85" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="D1E-Qob2-XWS4WJGhTcT-6" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ip地址&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D1E-Qob2-XWS4WJGhTcT-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ip地址&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1710" y="1110" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D1E-Qob2-XWS4WJGhTcT-7" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="D1E-Qob2-XWS4WJGhTcT-1" target="D1E-Qob2-XWS4WJGhTcT-2" edge="1">
@@ -55,7 +55,7 @@
         <mxCell id="D1E-Qob2-XWS4WJGhTcT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="D1E-Qob2-XWS4WJGhTcT-6" target="D1E-Qob2-XWS4WJGhTcT-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D1E-Qob2-XWS4WJGhTcT-13" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;区块链哈希&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="D1E-Qob2-XWS4WJGhTcT-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;区块链哈希&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1810" y="1170" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="D1E-Qob2-XWS4WJGhTcT-14" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="D1E-Qob2-XWS4WJGhTcT-1" target="D1E-Qob2-XWS4WJGhTcT-13" edge="1">
