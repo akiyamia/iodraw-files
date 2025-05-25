@@ -47,7 +47,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;客户端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1217" y="160" width="306" height="53" as="geometry" />
+          <mxGeometry x="1114" y="169" width="306" height="53" as="geometry" />
         </mxCell>
         <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H-hmGQ-di_6fhZ9GmZ8G-2" target="H-hmGQ-di_6fhZ9GmZ8G-3">
           <mxGeometry relative="1" as="geometry" />
@@ -103,6 +103,9 @@
         </mxCell>
         <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-25" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;存储数据，提供读写接口&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1217" y="733" width="216" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="H-hmGQ-di_6fhZ9GmZ8G-27" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="411" width="50" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
