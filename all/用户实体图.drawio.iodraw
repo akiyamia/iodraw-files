@@ -10,10 +10,10 @@
         <mxCell id="9A2B_5kwN6_HBRTSXeTx-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;u style=&quot;&quot;&gt;id&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="970" y="1030" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9A2B_5kwN6_HBRTSXeTx-3" value="&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;&lt;u style=&quot;&quot;&gt;用户名&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="9A2B_5kwN6_HBRTSXeTx-3" value="&lt;font style=&quot;font-weight: normal; font-size: 14px;&quot;&gt;用户名&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1030" y="960" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9A2B_5kwN6_HBRTSXeTx-4" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;密码&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9A2B_5kwN6_HBRTSXeTx-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;密码&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1100" y="902.5" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9A2B_5kwN6_HBRTSXeTx-5" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;邮箱&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="9A2B_5kwN6_HBRTSXeTx-7" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;角色&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1500" y="760" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9A2B_5kwN6_HBRTSXeTx-8" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;昵称&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9A2B_5kwN6_HBRTSXeTx-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;昵称&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="847.5" width="85" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9A2B_5kwN6_HBRTSXeTx-12" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;公钥&lt;/font&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
