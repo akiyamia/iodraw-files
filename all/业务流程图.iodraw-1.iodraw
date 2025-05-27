@@ -305,10 +305,10 @@
           <mxGeometry x="1463" y="321.75" width="69" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-57" value="合约查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1265" y="411" width="80" height="30" as="geometry" />
+          <mxGeometry x="1266" y="407" width="80" height="27" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-58" value="哈希查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1158" y="406" width="80" height="30" as="geometry" />
+          <mxGeometry x="1150" y="404" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
