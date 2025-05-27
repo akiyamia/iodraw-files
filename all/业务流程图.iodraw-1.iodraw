@@ -307,8 +307,8 @@
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-57" value="合约查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1265" y="411" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VFCuc-BsMxdL1hfZy4oX-58" value="交易哈希查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1164" y="411" width="80" height="30" as="geometry" />
+        <mxCell id="VFCuc-BsMxdL1hfZy4oX-58" value="哈希查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1158" y="406" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
