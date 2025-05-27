@@ -283,6 +283,9 @@
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-65" value="可选" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1415" y="383" width="42" height="26" as="geometry" />
         </mxCell>
+        <mxCell id="VFCuc-BsMxdL1hfZy4oX-68" value="区块链查询" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="920" y="332" width="69" height="46.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
