@@ -324,7 +324,7 @@
             <mxPoint x="909" y="443" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFCuc-BsMxdL1hfZy4oX-86" value="用户增删改查" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VFCuc-BsMxdL1hfZy4oX-86" value="搜索评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1085" y="448.25" width="76" height="40" as="geometry" />
         </mxCell>
       </root>
