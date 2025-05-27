@@ -283,9 +283,6 @@
             <mxPoint x="1308" y="529.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFCuc-BsMxdL1hfZy4oX-40" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;right=0;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="889" y="376" width="72" height="162" as="geometry" />
-        </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.219;entryY=0.494;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="VFCuc-BsMxdL1hfZy4oX-24" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="915" y="375" as="sourcePoint" />
