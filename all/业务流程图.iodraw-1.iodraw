@@ -286,7 +286,7 @@
           <mxGeometry x="907" y="488" width="72" height="36" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-76" value="搜索现有投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="745" y="432.5" width="72" height="36" as="geometry" />
+          <mxGeometry x="812" y="484" width="72" height="36" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-77" value="投票管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="867" y="357" width="70" height="40" as="geometry" />
@@ -314,6 +314,9 @@
             <mxPoint x="912" y="407" as="sourcePoint" />
             <mxPoint x="889" y="441" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VFCuc-BsMxdL1hfZy4oX-84" value="创建新投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="991" y="442" width="69" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
