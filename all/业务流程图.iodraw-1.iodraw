@@ -283,7 +283,7 @@
           <mxGeometry x="844" y="431" width="69" height="37" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-75" value="结束现有投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="926" y="432.5" width="72" height="36" as="geometry" />
+          <mxGeometry x="927" y="432.5" width="72" height="36" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-76" value="搜索现有投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="745" y="432.5" width="72" height="36" as="geometry" />
@@ -303,11 +303,20 @@
             <mxPoint x="912" y="367" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFCuc-BsMxdL1hfZy4oX-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="VFCuc-BsMxdL1hfZy4oX-81" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VFCuc-BsMxdL1hfZy4oX-77" target="VFCuc-BsMxdL1hfZy4oX-74">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="877" y="407" as="sourcePoint" />
             <mxPoint x="791" y="443" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VFCuc-BsMxdL1hfZy4oX-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VFCuc-BsMxdL1hfZy4oX-77" target="VFCuc-BsMxdL1hfZy4oX-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="912" y="407" as="sourcePoint" />
+            <mxPoint x="889" y="441" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFCuc-BsMxdL1hfZy4oX-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VFCuc-BsMxdL1hfZy4oX-74" target="VFCuc-BsMxdL1hfZy4oX-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
