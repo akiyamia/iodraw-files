@@ -289,6 +289,9 @@
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-69" value="评论管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="987" y="328" width="69" height="46.5" as="geometry" />
         </mxCell>
+        <mxCell id="VFCuc-BsMxdL1hfZy4oX-70" value="投票管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1083" y="328" width="69" height="46.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
