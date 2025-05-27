@@ -299,7 +299,7 @@
           <mxGeometry x="1249" y="329.5" width="69" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-47" value="参与投票" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1388" y="329.5" width="69" height="46.5" as="geometry" />
+          <mxGeometry x="1376" y="329.5" width="69" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-57" value="合约查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1283" y="399.5" width="87" height="29.5" as="geometry" />
@@ -316,7 +316,7 @@
             <mxPoint x="1269" y="284" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VFCuc-BsMxdL1hfZy4oX-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.654;exitY=0.967;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VFCuc-BsMxdL1hfZy4oX-8" target="VFCuc-BsMxdL1hfZy4oX-47">
+        <mxCell id="VFCuc-BsMxdL1hfZy4oX-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VFCuc-BsMxdL1hfZy4oX-8" target="VFCuc-BsMxdL1hfZy4oX-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1336" y="302" as="sourcePoint" />
             <mxPoint x="1294" y="340" as="targetPoint" />
