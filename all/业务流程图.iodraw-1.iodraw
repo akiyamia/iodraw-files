@@ -325,7 +325,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-86" value="搜索评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1085" y="448.25" width="76" height="40" as="geometry" />
+          <mxGeometry x="1085" y="448.25" width="62" height="34.75" as="geometry" />
+        </mxCell>
+        <mxCell id="VFCuc-BsMxdL1hfZy4oX-87" value="搜索评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1163" y="453" width="62" height="34.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
