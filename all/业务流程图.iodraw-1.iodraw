@@ -299,7 +299,7 @@
           <mxGeometry x="1248" y="325" width="69" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-47" value="参与投票" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1383" y="325" width="69" height="46.5" as="geometry" />
+          <mxGeometry x="1378" y="325" width="69" height="46.5" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-57" value="合约查询" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1283" y="399.5" width="87" height="29.5" as="geometry" />
