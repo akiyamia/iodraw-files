@@ -292,7 +292,7 @@
           <mxGeometry x="840" y="432" width="69" height="37" as="geometry" />
         </mxCell>
         <mxCell id="VFCuc-BsMxdL1hfZy4oX-75" value="结束现有投票" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="935" y="427" width="82" height="52" as="geometry" />
+          <mxGeometry x="938" y="433" width="72" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
